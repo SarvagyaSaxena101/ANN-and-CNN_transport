@@ -1,5 +1,5 @@
-# ANN_transport
-An ANN network for classification of transport vehicles.
+# ANN-and-CNN_transport
+An ANN  and CNNN based network for classification of transport vehicles.
     This is a dataset of 50,000 32x32 color training images and 10,000 test
     images, labeled over 10 categories. See more info at the
     [CIFAR homepage](https://www.cs.toronto.edu/~kriz/cifar.html).
